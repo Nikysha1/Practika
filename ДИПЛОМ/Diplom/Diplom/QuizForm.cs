@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+// Сделал комментарий
 namespace Diplom
 {
     public partial class QuizForm : Form
